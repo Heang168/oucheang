@@ -1,0 +1,5 @@
+{
+    "compile-hero.generate-minified-css": true,
+    "compile-hero.generate-minified-html": true,
+    "compile-hero.generate-minified-javascript": true
+}
